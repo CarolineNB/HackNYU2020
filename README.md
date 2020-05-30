@@ -1,6 +1,7 @@
 # HackNYU2020
-
-<img src="https://i.ibb.co/kQnbRyk/Sign-AI-thumbnail.png" alt="logo" width="367" height="324">
+Assignments | Format 
+------------ | -------------
+<img src="https://i.ibb.co/kQnbRyk/Sign-AI-thumbnail.png" alt="logo" width="367" height="324"> | <img src="https://github.com/CarolineNB/HackNYU2020/blob/master/demo%20.jpg" alt="demo" width="400" >
 
 ## Link to Devpost:
 https://devpost.com/software/signai-ecypab/
